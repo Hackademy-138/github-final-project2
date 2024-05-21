@@ -9,3 +9,5 @@ Un calcolatore che calcola l'interesse semplice dato il capitale, il tasso di in
 
 ## Output
 - **interesse semplice** = p * t * r
+2023 XYZ, Inc.
+
